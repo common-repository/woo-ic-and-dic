@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Canvas v5.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-27 09:38+0200\n"
+"PO-Revision-Date: 2022-08-27 09:39+0200\n"
+"Last-Translator: admin <magnus@jepson.no>\n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-wid-admin.php:74
+msgid "Checkout Process"
+msgstr "Pokladna"
+
+#: admin/class-wid-admin.php:80
+msgid "Company number on checkout"
+msgstr "IČ a DIČ v pokladně"
+
+#: admin/class-wid-admin.php:81
+msgid "Active company number on checkout"
+msgstr "Povolit IČ a DIČ v pokladně"
+
+#: admin/class-wid-admin.php:85
+msgid "If is active, on checkout will be new fields for companuny number."
+msgstr "Pokud je povoleno, bude se v pokladně zobrazovat IČ a DIČ."
+
+#: admin/class-wid-admin.php:100 admin/class-wid-admin.php:119
+#: public/class-wid.php:287
+msgid "Company number"
+msgstr "IČ"
+
+#: admin/class-wid-admin.php:104 admin/class-wid-admin.php:123
+#: public/class-wid.php:296
+msgid "VAT number"
+msgstr "DIČ"
+
+#: admin/class-wid-admin.php:108 admin/class-wid-admin.php:127
+#: public/class-wid.php:304
+msgid "VAT number 2"
+msgstr "DIČ SK"
+
+#: public/class-wid.php:280 public/class-wid.php:281
+msgid "Buy for the company"
+msgstr "Nakupuji na firmu"
+
+#: public/class-wid.php:355 public/class-wid.php:367
+msgid "Company number: "
+msgstr "IČ: "
+
+#: public/class-wid.php:359 public/class-wid.php:371
+msgid "VAT number: "
+msgstr "DIČ: "
+
+#: public/class-wid.php:363 public/class-wid.php:375
+msgid "VAT number 2: "
+msgstr "DIČ SK: "
+
+#: public/class-wid.php:442
+msgid "VAT number was not found in ARES database"
+msgstr "DIČ nebylo nalezeno v ARESu"
+
+#: public/class-wid.php:450
+msgid "Enter a valid Company number"
+msgstr "Vložte platné IČ"
+
+#: public/class-wid.php:456
+msgid "Enter a valid VAT number"
+msgstr "Vložte platné DIČ"
+
+#: public/class-wid.php:537
+msgid "Company number was not found in ARES database"
+msgstr "IČ nebylo nalezeno v ARESu"
+
+#: public/class-wid.php:543
+msgid "ARES database isnt available."
+msgstr "Databáze ARES není dostupná."

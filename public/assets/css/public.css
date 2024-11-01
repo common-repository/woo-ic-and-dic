@@ -1,0 +1,23 @@
+#billing_company_number_field,
+#billing_vat_number_field,
+#billing_vat_number_2_field{
+	float:left;
+	width:100%;
+  	display:none;
+}
+
+#billing_company_buy_on_field{
+	float:left;
+	width:100%;
+	position:relative;
+}
+
+#billing_company_buy_on_field label{
+	padding-left:30px;
+}
+#billing_company_buy_on_field .input-checkbox {
+	margin:0 0 0 0;
+	position:absolute;
+	left:0;
+	top:2px;
+}
